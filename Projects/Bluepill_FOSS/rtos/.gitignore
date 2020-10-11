@@ -6,4 +6,4 @@
 *.map
 .errs.t
 
-./FreeRTOS/
+./FreeRTOS/*
