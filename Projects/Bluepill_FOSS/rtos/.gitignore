@@ -1,0 +1,9 @@
+*.o
+*.d
+*.a
+*.elf
+*.bin
+*.map
+.errs.t
+
+./FreeRTOS/
