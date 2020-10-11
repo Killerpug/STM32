@@ -1,0 +1,4 @@
+Creating a new project:
+	0) Create the folder with a Makefile and the code itself.
+	1) Add the line "include ../Makefile.incl" on the local Make file.
+	2) Add the folder name to the global Makefile.
