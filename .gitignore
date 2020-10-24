@@ -4,6 +4,7 @@
 *.elf
 *.bin
 *.map
+*.hex
 .errs.t
 
 **/FreeRTOS/*
