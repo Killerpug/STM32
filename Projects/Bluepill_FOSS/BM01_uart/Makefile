@@ -4,7 +4,7 @@
 
 
 TARGET = uart
-SRCS = main.c
+SRCS = uart.c
 
 OBJS =  $(addsuffix .o, $(basename $(SRCS)))
 INCLUDES = -I.
